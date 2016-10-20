@@ -1,4 +1,6 @@
 /node_modules
 /build
+/dist
 /docs/build
+/docs/dist
 .DS_Store
